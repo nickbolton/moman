@@ -1,0 +1,1 @@
+Moman is a personal money manager based on the envelope budgeting model
